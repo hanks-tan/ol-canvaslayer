@@ -1,0 +1,16 @@
+{
+  "name": "ol-canvaslayer",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.6.7"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "ol": "^6.9.0"
+  }
+}
